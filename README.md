@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as an AI Engineer at Replika.ai
+- 🔭 I’m currently getting a Master in Data Science @ EPFL, ex AI Engineer (NLP + Speech) at Replika.ai
 - 🗒 I have participated in research projects @ HSE, EPFL and KIT Universities
 - 🎓 I have graduated from Applied mathematics and CS at HSE with honours
 - 📫 How to reach me: [telegram](https://t.me/arinaruck), [LinkedIn](https://www.linkedin.com/in/arina-r-942a56112/)
