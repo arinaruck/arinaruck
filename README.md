@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 
 **Fields of interest:** Deep learning for Audio and NLP 
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arinaruck&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
