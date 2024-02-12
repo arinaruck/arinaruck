@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently getting a Master's degree in Data Science @ EPFL
-- 💼 I'm ex AI Engineer (NLP + Speech) @ Replika.ai
+- 💼 I'm ex Student Researcher (NLP + Vision) @ Google Research, ex AI Engineer (NLP + Speech) @ Replika.ai
 - 🗒 I have participated in research projects @ HSE, EPFL and KIT Universities
 - 🎓 I have graduated from Applied mathematics and CS at HSE with honours
 - 📫 How to reach me: [telegram](https://t.me/arinaruck), [LinkedIn](https://www.linkedin.com/in/arina-r-942a56112/)
