@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently 
 -->
 
-- 🔭 I’m currently getting a Master's degree in Data Science @ EPFL
-- 💼 I'm ex Student Researcher (NLP + Vision) @ Google Research, ex AI Engineer (NLP + Speech) @ Replika.ai
+- 🎓 I have graduated from an MSc in Data Science @ EPFL and BSc in Applied Mathematics and CS @ HSE with honours 
+- 💼 I'm ex AI Engineer @ DeepJudge, ex Student Researcher (NLP + Vision) @ Google Research, ex AI Engineer (NLP + Speech) @ Replika.ai
 - 🗒 I have participated in research projects @ HSE, EPFL and KIT Universities
-- 🎓 I have graduated from Applied mathematics and CS at HSE with honours
 - 📫 How to reach me: [telegram](https://t.me/arinaruck), [LinkedIn](https://www.linkedin.com/in/arina-r-942a56112/)
 
 **Fields of interest:** Multi-modal NLP, Retrieval Augmented Generation, Multi-lingual NLP 
